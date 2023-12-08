@@ -1,0 +1,43 @@
+DGS004
+null 0 0
+an "A"
+cn "A" "x":0.0
+cn "A" "y":0.5
+an "B"
+cn "B" "x":0.3
+cn "B" "y":1.0
+an "C"
+cn "C" "x":0.3
+cn "C" "y":0.0
+an "D"
+cn "D" "x":0.5
+cn "D" "y":1.0
+an "E"
+cn "E" "x":0.5
+cn "E" "y":0.5
+an "F"
+cn "F" "x":0.5
+cn "F" "y":0.0
+an "G"
+cn "G" "x":0.7
+cn "G" "y":1.0
+an "H"
+cn "H" "x":0.7
+cn "H" "y":0.0
+an "I"
+cn "I" "x":1.0
+cn "I" "y":0.5
+ae "ab" "A" > "B" "cap":800
+ae "ac" "A" > "C" "cap":900
+ae "bd" "B" > "D" "cap":600
+ae "be" "B" > "E" "cap":200
+ae "cd" "C" > "D" "cap":100
+ae "ce" "C" > "E" "cap":300
+ae "cf" "C" > "F" "cap":300
+ae "dg" "D" > "G" "cap":700
+ae "dh" "D" > "H" "cap":200
+ae "eg" "E" > "G" "cap":500
+ae "fg" "F" > "G" "cap":200
+ae "fh" "F" > "H" "cap":300
+ae "gi" "G" > "I" "cap":500
+ae "hi" "H" > "I" "cap":1000
